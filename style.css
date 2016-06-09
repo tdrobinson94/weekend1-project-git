@@ -1,0 +1,111 @@
+.yourlogo{
+  color: rgb(94,100,107);
+  margin: 5px;
+  font-size: 14px;
+}
+.navbar{
+  margin: 4px;
+}
+.navbar a{
+  margin: 12px;
+}
+.gray{
+  color: rgb(133, 133, 133);
+  font-size: 14px;
+}
+.pricing{
+  color: rgb(45,45,45);
+  font-size: 14px;
+}
+
+.headerimage img{
+  width: 100%;
+  height: 330px;
+  position: relative;
+}
+
+.title{
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 150px;
+  left: 420px;
+}
+.title2{
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 200px;
+  left: 380px;
+}
+.box{
+  margin-left: 140px;
+  margin-top: 50px;
+  height: 500px;
+}
+.container{
+  border: solid gray;
+  display: inline;
+  float: left;
+  margin-right: 15px;
+  height: 400px;
+  width: 250px;
+  margin-bottom: 20px;
+}
+.block1{
+  text-align: center;
+  color: white;
+  background-color: rgb(81,145,81);
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.five{
+  font-size: 80px;
+}
+.twentyfive{
+  font-size: 80px;
+}
+.fourtyfive{
+  font-size: 80px;
+}
+ul{
+  list-style: none;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+.items li{
+  border: solid gray .5px;
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(247,247,247)
+}
+.items .choose{
+  background-color: white;
+}
+.items .choose div{
+  margin: 8px;
+}
+.choose a{
+  border: solid gray .5px;
+  border-radius: 25px;
+  padding: 5px;
+  margin: 10px;
+}
+.block2{
+  color: white;
+  text-align: center;
+  background-color: rgb(44,73,133);
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.block3{
+  color: white;
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
