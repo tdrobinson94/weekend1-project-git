@@ -20,7 +20,7 @@
 
 .headerimage img{
   width: 100%;
-  height: 340px;
+  height: 330px;
   position: relative;
 }
 
@@ -29,25 +29,22 @@
   font-size: 40px;
   position: absolute;
   top: 150px;
-  left: 420px;
-}
-.title2{
-  color: white;
-  font-size: 40px;
-  position: absolute;
-  top: 200px;
-  left: 380px;
+  text-shadow: 6px 2px 12px #000000;
+  text-align: center;
+  display: block;
+  min-width: 100%;
 }
 .box{
-  margin-left: 140px;
-  margin-top: 50px;
+  float: left;
+  margin-left: 14%;
+  margin-right: 14%;
 }
 .container{
-  display: inline;
   float: left;
-  margin-right: 15px;
-  margin-bottom: 40px;
+  padding-bottom: 40px;
   width: 260px;
+  padding-top: 40px;
+  padding: 13px;
 }
 .block1{
   text-align: center;
@@ -117,4 +114,22 @@ ul{
   padding: 20px;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+.try{
+  text-decoration: underline;
+}
+.unsplash{
+  text-decoration: underline;
+}
+.footer{
+  float: left;
+  text-align: center;
+  background-color: black;
+  color: white;
+  position: relative;
+  padding: 10px;
+  width: 100%;
+}
+.pagewrapper{
+  width: 100%;
 }
