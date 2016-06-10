@@ -1,21 +1,21 @@
 .yourlogo{
   color: rgb(94,100,107);
   margin: 5px;
-  font-size: 14px;
+  font-size: 13px;
 }
 .navbar{
-  margin: 5px;
+  margin: 4px;
 }
 .navbar a{
-  margin: 12px;
+  margin: 10.5px;
 }
 .gray{
   color: rgb(133, 133, 133);
-  font-size: 14px;
+  font-size: 13px;
 }
 .pricing{
   color: rgb(45,45,45);
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .headerimage img{
@@ -148,6 +148,7 @@ ul{
 .box3{
   float: left;
   width: 400px;
+  margin-left: 15px;
 }
 .column2{
   text-align: left;
@@ -160,6 +161,7 @@ ul{
 .body1{
   margin-bottom: 40px;
   font-size: 14px;
+  color: rgb(106,119,124)
 }
 .label2{
   padding-bottom: 20px;
@@ -167,6 +169,7 @@ ul{
 }
 .body2{
   font-size: 14px;
+  color: rgb(106,119,124)
 }
 .label3{
   padding-bottom: 20px;
@@ -175,6 +178,7 @@ ul{
 .body3{
   margin-bottom: 56px;
   font-size: 14px;
+  color: rgb(106,119,124)
 }
 .label4{
   padding-bottom: 20px;
@@ -182,6 +186,7 @@ ul{
 }
 .body4{
   font-size: 14px;
+  color: rgb(106,119,124)
 }
 .days{
   color: rgb(136,136,136);
