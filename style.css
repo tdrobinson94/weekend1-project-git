@@ -87,7 +87,7 @@ ul{
 }
 .items li{
   padding: 11px;
-  font-size: 12px;
+  font-size: 13px;
   background-color: rgb(247,247,247);
   border: solid rgb(232,232,232) .5px;
   border-top: none;
@@ -97,7 +97,9 @@ ul{
   background-color: white;
 }
 .items .choose div{
-  margin: 15px;
+  margin: 13px;
+  margin-left: 11px;
+  margin-right: 11px;
 }
 .choose a{
   border: solid rgb(232,232,232) .5px;
@@ -105,9 +107,9 @@ ul{
   padding: 5px;
   margin: 10px;
   font-weight: bold;
-  padding-left: 6px;
-  padding-right: 6px;
-  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
 }
 .block2{
   color: white;
@@ -146,7 +148,7 @@ ul{
 .box2{
   width: 400px;
   float: left;
-  margin-left: 13%;
+  margin-left: 14%;
   margin-bottom: 25px;
 }
 .column1{
@@ -156,7 +158,7 @@ ul{
 .box3{
   float: left;
   width: 400px;
-  margin-left: 15px;
+  margin-left: 0px;
 }
 .column2{
   text-align: left;
@@ -168,7 +170,7 @@ ul{
 }
 .body1{
   margin-bottom: 40px;
-  font-size: 14px;
+  font-size: 13px;
   color: rgb(106,119,124)
 }
 .label2{
@@ -176,7 +178,7 @@ ul{
   padding-top: 10px;
 }
 .body2{
-  font-size: 14px;
+  font-size: 13px;
   color: rgb(106,119,124)
 }
 .label3{
@@ -185,7 +187,7 @@ ul{
 }
 .body3{
   margin-bottom: 56px;
-  font-size: 14px;
+  font-size: 13px;
   color: rgb(106,119,124)
 }
 .label4{
@@ -193,7 +195,7 @@ ul{
   padding-top: 10px;
 }
 .body4{
-  font-size: 14px;
+  font-size: 13px;
   color: rgb(106,119,124)
 }
 .days{
